@@ -46,8 +46,8 @@ const contentData: SectionData[] = [
     type: 'highlight',
     content: [
       'TRAE TU SONIDO.',
-      'SÉ EL VECTOR.',
-      'SÉ LA COMPOSICIÓN.'
+      'MODIFÍCALO.',
+      'MUTA LA COMPOSICIÓN.'
     ]
   },
   {
